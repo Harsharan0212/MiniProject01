@@ -5,4 +5,5 @@
 #### Case-2: Subset size must be 3 or 6 only
 
 ## **Methodology**
-<img src:"https://user-images.githubusercontent.com/7460892/173567150-e42f9d90-456e-4732-b30c-5820dd8bd55f.png" width="80%" height="80%">
+![image](https://github.com/Harsharan0212/MiniProject01/assets/91721566/feb2087c-1d26-4010-9a2f-1fd0d6467c3f)
+
